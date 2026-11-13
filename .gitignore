@@ -1,0 +1,4 @@
+# 本机 Obsidian 仓库配置与欢迎页，不入库
+.obsidian/
+欢迎.md
+.DS_Store
